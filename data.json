@@ -1,0 +1,44 @@
+{
+  "profile" : {
+    "image":"images/beautiful.jpg",
+    "name":"Hemanth",
+    "Designation":"Student",
+    "mobile":"414556543",
+    "email":"sdfsrda@gmail.com"
+  },
+  "career":{
+    "info":"to prove myself by solving a challenging problem"
+  },
+  "Education":
+    [
+   {
+    "Qualification":"Btech",
+    "Institute":"Mits",
+    "percentage":"80%",
+    "year":"2021"
+  },
+  {
+    "Qualification":"inter",
+    "Institute":"BJC",
+    "percentage":"96.7%",
+    "year":"2017"
+  },
+  {
+    "Qualification":"ssc",
+    "Institute":"svn",
+    "percentage":"97%",
+    "year":"2015"
+  }
+],
+"skills" :[
+  {
+  "name":"WebTechnologies",
+  "info":["HTML","CSS","JS"]
+},
+
+  {
+    "name":"database",
+    "info":["jdbc","firebase","sql"]
+    }
+  ]
+}
